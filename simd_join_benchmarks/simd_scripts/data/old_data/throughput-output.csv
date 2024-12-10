@@ -1,0 +1,17 @@
+mode,alg,ds,threads,throughput
+native,CHT,cache-fit,2,271.76
+native,CHTopt2,cache-fit,2,287.78
+native,RHT,cache-fit,2,125.09
+native,PRHO_avx,cache-fit,2,190.16
+native,CHT,cache-exceed,2,134.31
+native,CHTopt2,cache-exceed,2,142.73
+native,RHT,cache-exceed,2,143.11
+native,PRHO_avx,cache-exceed,2,218.85
+sgx,CHT,cache-fit,2,102.63
+sgx,CHTopt2,cache-fit,2,116.42
+sgx,RHT,cache-fit,2,34.77
+sgx,PRHO_avx,cache-fit,2,37.75
+sgx,CHT,cache-exceed,2,25.58
+sgx,CHTopt2,cache-exceed,2,26.16
+sgx,RHT,cache-exceed,2,24.03
+sgx,PRHO_avx,cache-exceed,2,25.13

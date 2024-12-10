@@ -1,0 +1,13 @@
+The plots are created...
+--
+ADD:
+{'scalar': [1.0, 1.0, 1.0, 1.0], 'simd_sse_native': [1.9, 1.55, 1.54, 1.52], 'simd_avx_native': [3.52, 2.79, 2.71, 2.61], 'simd_sse_sgx': [1.04, 0.76, 0.81, 0.87], 'simd_avx_sgx': [2.48, 1.32, 1.34, 1.32]}
+The plots is successfully created and is in  images/ADD_speedup.pdf
+---
+AND:
+{'scalar': [1.0, 1.0, 1.0, 1.0], 'simd_sse_native': [1.65, 1.61, 1.59, 1.57], 'simd_avx_native': [2.88, 2.84, 2.73, 2.64], 'simd_sse_sgx': [1.12, 0.79, 0.84, 0.91], 'simd_avx_sgx': [1.81, 1.31, 1.32, 1.31]}
+The plots is successfully created and is in  images/AND_speedup.pdf
+--
+SHIFT_RIGHT:
+{'scalar': [1.0, 1.0, 1.0, 1.0], 'simd_sse_native': [1.7, 1.65, 1.63, 1.61], 'simd_avx_native': [3.08, 2.97, 2.87, 2.77], 'simd_sse_sgx': [0.91, 0.75, 0.79, 0.86], 'simd_avx_sgx': [1.39, 1.31, 1.33, 1.31]}
+The plots is successfully created and is in  images/SHIFT_RIGHT_speedup.pdf

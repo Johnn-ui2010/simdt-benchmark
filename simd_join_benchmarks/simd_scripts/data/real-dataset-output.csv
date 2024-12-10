@@ -1,0 +1,11 @@
+mode,alg,threads,throughput
+native,CHT,4,316.14
+native,CHTfsimd,4,334.62
+native,RHT,4,262.16
+native,PRHO,4,317.83
+native,PRHO_avx,4,364.13
+sgx,CHT,4,50.57
+sgx,CHTfsimd,4,51.6
+sgx,RHT,4,25.15
+sgx,PRHO,4,25.5
+sgx,PRHO_avx,4,25.42

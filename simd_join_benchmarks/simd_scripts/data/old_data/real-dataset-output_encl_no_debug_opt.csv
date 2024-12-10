@@ -1,0 +1,9 @@
+mode,alg,threads,throughput
+native,CHT,2,173.79
+native,CHTopt,2,179.4
+native,CHTopt2,2,177.69
+native,CHTopt3,2,175.25
+sgx,CHT,2,45.96
+sgx,CHTopt,2,48.25
+sgx,CHTopt2,2,47.9
+sgx,CHTopt3,2,48.02

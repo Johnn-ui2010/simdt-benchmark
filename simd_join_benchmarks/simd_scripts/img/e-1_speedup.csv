@@ -1,0 +1,5 @@
+group,ds,native_speedup,sgx_speedup
+CHT,cache-fit,1.054,1.105
+CHT,cache-exceed,1.023,1.011
+PRHO/RHT,cache-fit,1.202,1.003
+PRHO/RHT,cache-exceed,1.415,1.017

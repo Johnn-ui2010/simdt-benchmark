@@ -1,0 +1,9 @@
+mode,alg,sizeR,sizeS,phase,cycles
+sgx,CHT,40.0,10.0,Total,549311906.4
+sgx,CHT,40.0,10.0,Partition,347337702.4
+sgx,CHT,40.0,10.0,Build,147818873.6
+sgx,CHT,40.0,10.0,Probe,54081158
+sgx,CHTfsimd,40.0,10.0,Total,506569555.2
+sgx,CHTfsimd,40.0,10.0,Partition,326728472.4
+sgx,CHTfsimd,40.0,10.0,Build,126424270.8
+sgx,CHTfsimd,40.0,10.0,Probe,53350398.8
